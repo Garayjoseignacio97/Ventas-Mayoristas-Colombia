@@ -1,4 +1,4 @@
-# Garay-Jose-Ignacio-BI
+# Ventas Mayoristas Colombia
 
 En base a la base de datos brindada por el cliente se busca responder a traves de un reporte de Power Bi a las siguientes consultas:
 1. ¿Cuáles son los productos más vendidos en cada región?
